@@ -45,7 +45,7 @@ import java.time.LocalDateTime;
 
     Step 8 : Display Menu
 */
-class program1017
+class parkinglotsys
 {
     public static void main(String A[]) throws Exception
     {
