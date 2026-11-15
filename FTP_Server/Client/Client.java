@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-class program935
+class programClient
 {
     public static void main(String A[])
     {
@@ -10,9 +10,9 @@ class program935
 
         try
         {
-            System.out.println("-----------------------------------");
-            System.out.println("-----Marvellous Client Started-----");
-            System.out.println("-----------------------------------");
+            System.out.println("------------------------------------");
+            System.out.println("---------- Client Started ----------");
+            System.out.println("------------------------------------");
 
             Socket socket = new Socket("127.0.0.1",
                                        9000
