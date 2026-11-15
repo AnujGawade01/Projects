@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-class program934
+class programServer
 {
     public static void main(String A[])
     {
